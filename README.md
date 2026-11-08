@@ -36,7 +36,7 @@ Une banque doit décider rapidement si elle accorde un crédit. Ce projet couvre
 ```bash
 # 1. Cloner le repo
 git clone https://github.com/badrdata0/python_credit_risk_modelling.git
-cd credit-risk-model
+cd python_credit_risk_modelling
 
 # 2. Installer les dépendances
 pip install -r requirements.txt
@@ -53,7 +53,7 @@ streamlit run app.py
 ## 📁 Structure
 
 ```
-credit-risk-model/
+python_credit_risk_modelling/
 ├── data/                        # dataset (à télécharger, non versionné)
 ├── models/                      # modèle + encodeurs générés par le notebook
 ├── images/                      # captures pour le README
