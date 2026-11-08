@@ -35,7 +35,7 @@ Une banque doit décider rapidement si elle accorde un crédit. Ce projet couvre
 
 ```bash
 # 1. Cloner le repo
-git clone https://github.com/<ton-pseudo>/credit-risk-model.git
+git clone https://github.com/badrdata0/python_credit_risk_modelling.git
 cd credit-risk-model
 
 # 2. Installer les dépendances
